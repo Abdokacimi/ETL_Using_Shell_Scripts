@@ -8,9 +8,9 @@ The following are the columns and their data types in the file:
 a. timestamp - TIMESTAMP. \
 b. latitude - float. \
 c. longitude - float. \
-d. visitorid - char(37). \
+d. visitorid - char(37). 
 
-and two more columns: accessedfrommobile (boolean) and browser_code (int). \
+and two more columns: accessedfrommobile (boolean) and browser_code (int). 
 
 The columns which we need to copy to the table are the first four coumns : timestamp, latitude, longitude and visitorid. \
 

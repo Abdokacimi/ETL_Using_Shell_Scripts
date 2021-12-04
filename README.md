@@ -17,7 +17,7 @@ The columns which we need to copy to the table are the first four coumns : times
 NOTE: The file comes with a header. So use the 'HEADER' option in the 'COPY' command. \
 __cp-access-log.sh__. \
  This script downloads the file 'web-server-access-log.txt.gz'
- from "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0250EN-SkillsNetwork/labs/Bash%20Scripting/ETL%20using%20shell%20scripting/".
+ from [Here]("https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0250EN-SkillsNetwork/labs/Bash%20Scripting/ETL%20using%20shell%20scripting/") .
 
  The script then extracts the .txt file using gunzip. 
 
